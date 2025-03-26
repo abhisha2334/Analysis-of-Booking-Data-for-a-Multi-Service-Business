@@ -3,7 +3,7 @@
 ---
 
 ## **1. Introduction**
-The objective of this assessment is to analyze the booking data for a multi-service business. The dataset contains various types of bookings, including class enrollments, facility rentals, birthday party reservations, and subscriptions. The goal of this project is to clean and analyze the dataset, identify trends, and present insights using an interactive dashboard.
+This dataset contains various types of bookings, including class enrollments, facility rentals, birthday party reservations, and subscriptions. The goal of this project is to clean and analyze the dataset, identify trends, and present insights using an interactive dashboard.
 
 ---
 
