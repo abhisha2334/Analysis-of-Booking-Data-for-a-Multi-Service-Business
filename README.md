@@ -1,8 +1,4 @@
-# 📊 Data Analyst Intern Assessment Report
-
-**Author:** [Your Name]  
-**Date:** [Submission Date]  
-**Project:** Analysis of Booking Data for a Multi-Service Business  
+# 📊 Analysis of Booking Data for a Multi-Service Business  
 
 ---
 
