@@ -74,7 +74,7 @@ The objective of this assessment is to analyze the booking data for a multi-serv
 ## **7. Final Deliverables**
 ✔ **Interactive Dashboard** (Power BI/Tableau)  
 ✔ **Cleaned Final Dataset**  
-✔ **Report **  
+✔ **Report**  
  
 
 ---
